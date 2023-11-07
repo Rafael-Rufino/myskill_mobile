@@ -47,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/Rafael-Rufino/MySkills.git
+  $ git clone https://github.com/Rafael-Rufino/myskill_mobile
 ```
 
 2. Executando a Aplicação:

@@ -59,7 +59,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $yarn
 
   # Inicie a aplicação web
-  $ cd mySkills/src
+  $ cd myskill_mobile 
   $ expo start
 
 ```
